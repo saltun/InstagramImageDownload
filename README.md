@@ -27,6 +27,7 @@ başarılı bir sorgudan geri dönecek json şu şekildedir ;
 
  - [PHP](https://github.com/saltun/InstagramImageDownload/tree/master/php)
  - [Python](https://github.com/saltun/InstagramImageDownload/tree/master/python)
+ - [Ruby](https://github.com/saltun/InstagramImageDownload/tree/master/ruby)
 
  Developer and Creator - [Savaş Can ALTUN](http://savascanaltun.com.tr "Savaş Can ALTUN")
 
