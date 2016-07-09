@@ -1,9 +1,5 @@
-# İnstagram Image Download API
-
-[ Turkish ]
-
-# Geliştirmenler için api servisi
-
+## Turkish
+İnstagram İmage Download API
 
 **Api adresi =>** http://instagramresimindirme.net/api.php  
 **Gelmesi gereken parametre =>** _url_  
