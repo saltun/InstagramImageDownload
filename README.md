@@ -8,4 +8,4 @@ instagramresimindirme.net adresi üzeri sağlanan api servisinin kullanımı ve 
  
 ## Örnekler ##
 
- - [PHP](https://github.com/saltun/InstagramImageDownload/php)
+ - [PHP](https://github.com/saltun/InstagramImageDownload/tree/master/php)
