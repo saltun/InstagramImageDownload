@@ -20,11 +20,11 @@ get = json.loads(getApi.decode())
 print (get['url'])
 
 """ Image Description """
-print (get['url'])
+print (get['description'])
 
 
 """ Profile Username """
-print (get['url'])
+print (get['username'])
 
 
 """ Or Error """
