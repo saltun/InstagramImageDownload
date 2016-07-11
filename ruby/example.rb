@@ -17,10 +17,8 @@ puts (json_object['url'])
 # Image Description
 puts (json_object['description'])
 
-
 # Profile Username
 puts (json_object['username'])
-
 
 # Or Error
 puts (json_object['error'])
